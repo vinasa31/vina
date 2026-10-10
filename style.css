@@ -341,12 +341,20 @@ a {
 
 }
 
+<<<<<<< HEAD
+=======
+/* Service boxes wrapper */
+>>>>>>> a173cf6a121b8d2d56ab091e8f94dd3c55ec9cc9
 .rule-table {
     width: 100%;
     font-size: 0;
     text-align: center;
 }
 
+<<<<<<< HEAD
+=======
+/* Each service box */
+>>>>>>> a173cf6a121b8d2d56ab091e8f94dd3c55ec9cc9
 .box1 {
     display: inline-block;
     width: 20%;
@@ -362,6 +370,10 @@ a {
     box-sizing: border-box;
 }
 
+<<<<<<< HEAD
+=======
+/* Service icon */
+>>>>>>> a173cf6a121b8d2d56ab091e8f94dd3c55ec9cc9
 .box1 i {
     display: block;
     margin: auto;
@@ -370,6 +382,10 @@ a {
     margin-bottom: 6px;
 }
 
+<<<<<<< HEAD
+=======
+/* Service title */
+>>>>>>> a173cf6a121b8d2d56ab091e8f94dd3c55ec9cc9
 .rule-title {
     color: #1e293b;
     font-size: 12px;
@@ -377,6 +393,10 @@ a {
     margin-bottom: 3px;
 }
 
+<<<<<<< HEAD
+=======
+/* Service description */
+>>>>>>> a173cf6a121b8d2d56ab091e8f94dd3c55ec9cc9
 .rule-sub {
     color: #94a3b8;
     font-size: 10px;
@@ -390,7 +410,11 @@ a {
     margin: 35px auto 0;
 }
 
+<<<<<<< HEAD
 
+=======
+/* Product heading */
+>>>>>>> a173cf6a121b8d2d56ab091e8f94dd3c55ec9cc9
 .items-title {
     width: 100%;
     margin-bottom: 15px;
